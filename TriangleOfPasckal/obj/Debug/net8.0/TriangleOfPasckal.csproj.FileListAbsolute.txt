@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\bin\Debug\net8.0\TriangleOfPasckal.exe
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\bin\Debug\net8.0\TriangleOfPasckal.deps.json
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\bin\Debug\net8.0\TriangleOfPasckal.runtimeconfig.json
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\bin\Debug\net8.0\TriangleOfPasckal.dll
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\bin\Debug\net8.0\TriangleOfPasckal.pdb
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\obj\Debug\net8.0\TriangleOfPasckal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\obj\Debug\net8.0\TriangleOfPasckal.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\obj\Debug\net8.0\TriangleOfPasckal.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\obj\Debug\net8.0\TriangleOfPasckal.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\obj\Debug\net8.0\TriangleOfPasckal.dll
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\obj\Debug\net8.0\refint\TriangleOfPasckal.dll
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\obj\Debug\net8.0\TriangleOfPasckal.pdb
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\obj\Debug\net8.0\TriangleOfPasckal.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\JaggedArrays\TriangleOfPasckal\obj\Debug\net8.0\ref\TriangleOfPasckal.dll
